@@ -1,0 +1,30 @@
+p{
+    text-align: justify;
+    text-indent: 50px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1, h2{
+    text-transform: uppercase;
+    color: white;
+}
+
+section{
+    background-color: #82caaf;
+    color:black;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid black;
+    
+}
+
+body{
+    background-color: #E0E0E0;
+}
+ul li{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}

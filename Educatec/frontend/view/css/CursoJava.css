@@ -1,0 +1,28 @@
+body{
+    background-color: #E0E0E0;
+    
+}
+iframe{
+    padding: 20px;
+}
+
+#container{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+hr{
+    color: white;
+}
+.c{
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+   
+}
+
